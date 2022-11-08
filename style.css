@@ -1,0 +1,29 @@
+body {
+	background: #CCCCCC;
+  }
+
+h1 {
+	text-align: center;
+  }
+
+div {
+  height:300px;
+  whidth:300px;
+}
+.enviar {
+	width: 20%;
+	padding: 15px 0;
+	background: orange;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	transition: 1s all;
+	cursor: pointer;
+}
+
+.enviar:hover {
+	background: darkorange;
+	transform: scale(1.2);
+}
