@@ -34,4 +34,7 @@ div {
 	background: darkorange;
 	transform: scale(1.2);
 }
+.links {
+	font-style:italic;
+}
 
