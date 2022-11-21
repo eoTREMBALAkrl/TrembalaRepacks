@@ -1,3 +1,10 @@
+.titulo-principal:before{
+	content: " [ "
+}
+.titulo-principal:after{
+	content: " ] "
+}
+
 body {
 	background: #CCCCCC;
   }
@@ -27,9 +34,4 @@ div {
 	background: darkorange;
 	transform: scale(1.2);
 }
-.titulo-principal:before{
-	content: " [ "
-}
-.titulo-principal:after{
-	content: " ] "
-}
+
