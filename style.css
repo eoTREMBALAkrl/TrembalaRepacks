@@ -5,6 +5,10 @@
 	content: " ] "
 }
 
+.capa {
+	box-shadow: 10px 10px #000000;
+}
+
 body {
 	background: #CCCCCC;
   }
